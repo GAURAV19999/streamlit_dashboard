@@ -1,10 +1,10 @@
-streamlit == 1.43.2
-pandas == 2.2.3
-plotly == 6.0.1
-wordcloud == 1.9.4
-pybase64 == 1.4.1
-matplotlib == 3.10.1
-textblob == 0.19.0
-collection == 0.1.6
-regex == 2024.11.6
-nltk == 3.9.1
+streamlit
+pandas
+plotly
+wordcloud 
+pybase64 
+matplotlib 
+textblob 
+collection
+regex
+nltk
