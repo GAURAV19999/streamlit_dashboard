@@ -1,5 +1,6 @@
 import streamlit as st
 import pandas as pd
+%pip insatll plotly
 import plotly.express as px
 from wordcloud import WordCloud
 import base64
